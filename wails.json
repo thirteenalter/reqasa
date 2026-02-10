@@ -1,0 +1,12 @@
+{
+  "name": "reqasa",
+  "outputfilename": "reqasa",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "frontend:dev:watcher": "npm run dev",
+  "frontend:dev:serverUrl": "auto",
+  "author": {
+    "name": "ryznxx",
+    "email": "ryuzenfarizi@gmail.com"
+  }
+}
